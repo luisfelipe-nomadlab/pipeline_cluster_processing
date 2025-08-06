@@ -1,0 +1,71 @@
+2025-08-06 10:14:23,120 - INFO - Iniciando pipeline de clusterização...
+2025-08-06 10:16:39,694 - INFO - Iniciando pipeline de clusterização...
+2025-08-06 10:16:39,783 - INFO - Dados carregados com sucesso. Total de linhas: 2240
+2025-08-06 10:16:39,786 - INFO - **Estrutura da base de dados**
+2025-08-06 10:16:39,786 - INFO - - Total de linhas: 2240, colunas: 1
+2025-08-06 10:16:39,786 - INFO - - Colunas: ['ID\tYear_Birth\tEducation\tMarital_Status\tIncome\tKidhome\tTeenhome\tDt_Customer\tRecency\tMntWines\tMntFruits\tMntMeatProducts\tMntFishProducts\tMntSweetProducts\tMntGoldProds\tNumDealsPurchases\tNumWebPurchases\tNumCatalogPurchases\tNumStorePurchases\tNumWebVisitsMonth\tAcceptedCmp3\tAcceptedCmp4\tAcceptedCmp5\tAcceptedCmp1\tAcceptedCmp2\tComplain\tZ_CostContact\tZ_Revenue\tResponse']
+2025-08-06 10:16:39,787 - INFO - - Variáveis categóricas: ['ID\tYear_Birth\tEducation\tMarital_Status\tIncome\tKidhome\tTeenhome\tDt_Customer\tRecency\tMntWines\tMntFruits\tMntMeatProducts\tMntFishProducts\tMntSweetProducts\tMntGoldProds\tNumDealsPurchases\tNumWebPurchases\tNumCatalogPurchases\tNumStorePurchases\tNumWebVisitsMonth\tAcceptedCmp3\tAcceptedCmp4\tAcceptedCmp5\tAcceptedCmp1\tAcceptedCmp2\tComplain\tZ_CostContact\tZ_Revenue\tResponse']
+2025-08-06 10:16:39,787 - INFO - - Variáveis numéricas: []
+2025-08-06 10:16:39,792 - INFO - **Distribuição de nulos por variável**
+                                                    total  percentual
+ID\tYear_Birth\tEducation\tMarital_Status\tInco...      0         0.0
+2025-08-06 10:19:17,436 - INFO - Iniciando pipeline de clusterização...
+2025-08-06 10:19:17,467 - INFO - Dados carregados com sucesso. Total de linhas: 2240
+2025-08-06 10:19:17,469 - INFO - **Estrutura da base de dados**
+2025-08-06 10:19:17,470 - INFO - - Total de linhas: 2240, colunas: 1
+2025-08-06 10:19:17,470 - INFO - - Colunas: ['ID\tYear_Birth\tEducation\tMarital_Status\tIncome\tKidhome\tTeenhome\tDt_Customer\tRecency\tMntWines\tMntFruits\tMntMeatProducts\tMntFishProducts\tMntSweetProducts\tMntGoldProds\tNumDealsPurchases\tNumWebPurchases\tNumCatalogPurchases\tNumStorePurchases\tNumWebVisitsMonth\tAcceptedCmp3\tAcceptedCmp4\tAcceptedCmp5\tAcceptedCmp1\tAcceptedCmp2\tComplain\tZ_CostContact\tZ_Revenue\tResponse']
+2025-08-06 10:19:17,471 - INFO - - Variáveis categóricas: ['ID\tYear_Birth\tEducation\tMarital_Status\tIncome\tKidhome\tTeenhome\tDt_Customer\tRecency\tMntWines\tMntFruits\tMntMeatProducts\tMntFishProducts\tMntSweetProducts\tMntGoldProds\tNumDealsPurchases\tNumWebPurchases\tNumCatalogPurchases\tNumStorePurchases\tNumWebVisitsMonth\tAcceptedCmp3\tAcceptedCmp4\tAcceptedCmp5\tAcceptedCmp1\tAcceptedCmp2\tComplain\tZ_CostContact\tZ_Revenue\tResponse']
+2025-08-06 10:19:17,471 - INFO - - Variáveis numéricas: []
+2025-08-06 10:19:17,473 - INFO - **Distribuição de nulos por variável**
+                                                    total  percentual
+ID\tYear_Birth\tEducation\tMarital_Status\tInco...      0         0.0
+2025-08-06 10:21:07,001 - INFO - Iniciando pipeline de clusterização...
+2025-08-06 10:21:07,031 - INFO - Dados carregados com sucesso. Total de linhas: 2240
+2025-08-06 10:21:07,035 - INFO - **Estrutura da base de dados**
+2025-08-06 10:21:07,035 - INFO - - Total de linhas: 2240, colunas: 29
+2025-08-06 10:21:07,035 - INFO - - Colunas: ['ID', 'Year_Birth', 'Education', 'Marital_Status', 'Income', 'Kidhome', 'Teenhome', 'Dt_Customer', 'Recency', 'MntWines', 'MntFruits', 'MntMeatProducts', 'MntFishProducts', 'MntSweetProducts', 'MntGoldProds', 'NumDealsPurchases', 'NumWebPurchases', 'NumCatalogPurchases', 'NumStorePurchases', 'NumWebVisitsMonth', 'AcceptedCmp3', 'AcceptedCmp4', 'AcceptedCmp5', 'AcceptedCmp1', 'AcceptedCmp2', 'Complain', 'Z_CostContact', 'Z_Revenue', 'Response']
+2025-08-06 10:21:07,036 - INFO - - Variáveis categóricas: ['Education', 'Marital_Status', 'Dt_Customer']
+2025-08-06 10:21:07,036 - INFO - - Variáveis numéricas: ['ID', 'Year_Birth', 'Income', 'Kidhome', 'Teenhome', 'Recency', 'MntWines', 'MntFruits', 'MntMeatProducts', 'MntFishProducts', 'MntSweetProducts', 'MntGoldProds', 'NumDealsPurchases', 'NumWebPurchases', 'NumCatalogPurchases', 'NumStorePurchases', 'NumWebVisitsMonth', 'AcceptedCmp3', 'AcceptedCmp4', 'AcceptedCmp5', 'AcceptedCmp1', 'AcceptedCmp2', 'Complain', 'Z_CostContact', 'Z_Revenue', 'Response']
+2025-08-06 10:21:07,038 - INFO - **Distribuição de nulos por variável**
+                     total  percentual
+ID                       0    0.000000
+Year_Birth               0    0.000000
+Education                0    0.000000
+Marital_Status           0    0.000000
+Income                  24    1.071429
+Kidhome                  0    0.000000
+Teenhome                 0    0.000000
+Dt_Customer              0    0.000000
+Recency                  0    0.000000
+MntWines                 0    0.000000
+MntFruits                0    0.000000
+MntMeatProducts          0    0.000000
+MntFishProducts          0    0.000000
+MntSweetProducts         0    0.000000
+MntGoldProds             0    0.000000
+NumDealsPurchases        0    0.000000
+NumWebPurchases          0    0.000000
+NumCatalogPurchases      0    0.000000
+NumStorePurchases        0    0.000000
+NumWebVisitsMonth        0    0.000000
+AcceptedCmp3             0    0.000000
+AcceptedCmp4             0    0.000000
+AcceptedCmp5             0    0.000000
+AcceptedCmp1             0    0.000000
+AcceptedCmp2             0    0.000000
+Complain                 0    0.000000
+Z_CostContact            0    0.000000
+Z_Revenue                0    0.000000
+Response                 0    0.000000
+2025-08-06 10:21:07,109 - INFO - Feature engineering concluída.
+2025-08-06 10:21:07,113 - INFO - 
+[Limpeza de Dados]
+- Colunas removidas: ['ID', 'Year_Birth', 'Kidhome', 'Teenhome', 'Dt_Customer', 'Z_CostContact', 'Z_Revenue']
+- Colunas imputadas com média: ['Income', 'Customer_Tenure_Days']
+- Total de colunas após limpeza: 31
+2025-08-06 10:21:07,145 - INFO - Normalização e encoding concluídos.
+2025-08-06 10:21:07,153 - INFO - Variáveis selecionadas e normalizadas para KMeans.
+2025-08-06 10:21:07,260 - INFO - KMeans aplicado com sucesso.
+2025-08-06 10:21:07,265 - INFO - Rótulos de cluster adicionados.
+2025-08-06 10:21:07,310 - INFO - Arquivo final salvo em: data_processed/clientes_com_cluster.csv
+2025-08-06 10:21:07,311 - INFO - Pipeline finalizado com sucesso.
